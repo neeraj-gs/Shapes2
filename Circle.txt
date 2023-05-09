@@ -1,1 +1,4 @@
 Added a Circle file
+
+Started to add outline to the Circle
+Half way DOne.
