@@ -7,5 +7,18 @@ In this Project we are going to consider Another project which is public and con
 We will be using my Second Github Account to understand the Process of pull request and merging
 
 Steps To Be followed for creating the proejct are:
+PHASE 1:
+  Consider a Public Repo and fork the repo - -a copy of that repo is presetn inyour github repositories
+  Now clone this Forked Repo onto your local computer -- git clone http_link
+  Do the Changes and then push it back to the Repo -- git push origin master
+  Now these changes are only reflected in your repository to get it done in original repository
+  In contribute Section - Create a Pull request
+  The admin of the main repo has to check and then he will approve or reject
+  If Approved then your changes wil lbe merged onto the proejct and you can see your commits on the main project repo
+  This will make your First Contribution.
+
+PHASE 2:
+ABOUT CREATING NEW BRANCHES AND WORKING ON A FUNCTIONALITY AND MERGING THE BRANCH
 
 
+Steps To Be followed for creating the proejct are:
