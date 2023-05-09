@@ -1,2 +1,2 @@
-Added a Square one 
-We will be creating diffrent bracnches later to understand the working of Branches.
+Added a Square one
+Working onsquare file in a seperate branch as a functionality
