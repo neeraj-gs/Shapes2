@@ -22,3 +22,12 @@ ABOUT CREATING NEW BRANCHES AND WORKING ON A FUNCTIONALITY AND MERGING THE BRANC
 
 
 Steps To Be followed for creating the proejct are:
+  Create a new Branch for each Functionality of the shapes -- git checkout -b branch_name
+  Change / Switch to the Branch you are working on new functionality - git checkout branch_name
+  To View all the branches present -- git branch
+  Do all the required Changes by going to each branch - Also commit the changes done
+  To merge a branch we have to be on the branch where we are merging the branch - git merge branch_name
+  After merging it is a good idea to delete the branch if we are sure that we will not use the branch again in future - git branch -D branch_name
+  
+  After the merging all the commits will be reflected in the main branch itself.
+  
