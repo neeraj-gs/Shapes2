@@ -1,5 +1,7 @@
 # Shapes2
 
+I Forked this from my duplicate github account to see the working of forking and creating pull requests.
+
 This is  a Continuatin of the Project Shapes
 In the earlier project we learnt how to use basic git commands.
 In this Project we are going to consider Another project which is public and contribute to this.
