@@ -32,4 +32,5 @@ Steps To Be followed for creating the proejct are:
   After merging it is a good idea to delete the branch if we are sure that we will not use the branch again in future - git branch -D branch_name
   
   After the merging all the commits will be reflected in the main branch itself.
+  Used to just check the working of git and github.
   
