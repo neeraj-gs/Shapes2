@@ -33,4 +33,7 @@ Steps To Be followed for creating the proejct are:
   
   After the merging all the commits will be reflected in the main branch itself.
   Used to just check the working of git and github.
+
+
+This Repository was used to create and find out about git and github and make the connectionbetween inssues
   
